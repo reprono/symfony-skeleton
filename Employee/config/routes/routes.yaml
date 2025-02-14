@@ -1,0 +1,4 @@
+health_check:
+  path: /health-check
+    # the controller value has the format 'controller_class::method_name'
+  controller: 'Employee\Controller\HealthCheckController'
