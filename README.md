@@ -1,7 +1,7 @@
-# Modular Monolith Example
+# Modular Monolith
 
 ## Content
-- PHP container running version 8.1.1
+- PHP container running version 8.2
 - MySQL container running version 8.0.26
 
 ## Instructions
